@@ -1,1 +1,1 @@
-FROM scr.sitecore.com/sxp/sitecore-id:10.0.0-ltsc2019
+FROM registry.buildpiper.in/sitecore-id:1.0
