@@ -1,1 +1,1 @@
-FROM registry.buildpiper.in/sitecore-id:1.0
+FROM dgupta9068/sitecore-id:1.0
